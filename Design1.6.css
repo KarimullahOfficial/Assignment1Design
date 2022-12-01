@@ -1,7 +1,7 @@
 .center-column
 {
 margin:auto;
- width: 350px;
+ width: 450px;
  height: 500px;
 background-color:blue;
 margin-top:50px;
@@ -10,11 +10,11 @@ margin-top:50px;
 .par
 {
 
-    width: 250px;
+    width: 350px;
     height: 100px;
     background-color:black;
     margin-top: 20px;
-    margin-left: 40px;
+    margin-left: 30px;
 
 }
 .bt
@@ -26,12 +26,4 @@ margin-top:50px;
     margin-left: 70px;
     border-radius: 10%;
 }
- .in
- {
-    width: 350px;
-    height:200px;
-    background-color:black;
-    
-    margin-top: 100px;
-     
- }
+  
