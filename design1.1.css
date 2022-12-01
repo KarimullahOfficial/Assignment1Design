@@ -1,6 +1,19 @@
 .one
 {
-    width: 250px;
-    height: 250px;
+    width: 950px;
+    height: 520px;
     background-color: blue;
+     margin-left: 10%;
+    margin-top: 30px;
+    border-radius: 15px;
+     
 }
+.two
+{
+    width: 50px;
+    height: 40px;
+     background-color: aqua;
+    margin-left: 5%;
+     margin-top: 20px;
+}
+   
