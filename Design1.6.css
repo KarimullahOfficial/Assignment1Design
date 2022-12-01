@@ -1,0 +1,29 @@
+.center-column
+{
+margin:auto;
+ width: 450px;
+ height: 400px;
+background-color:blue;
+margin-top:50px;
+ 
+}
+.par
+{
+
+    width: 350px;
+    height: 200px;
+    background-color:black;
+    margin-top: 20px;
+    margin-left: 30px;
+
+}
+.bt
+{
+    width: 200px;
+    height: 20px;
+    background-color: aqua;
+    margin-top:10px;
+    margin-left: 70px;
+    border-radius: 10%;
+}
+  

@@ -1,0 +1,58 @@
+.left-column
+{
+float:left;
+width:350px;
+height: 500px;
+background-color:red;
+margin-left: 160px;
+ 
+ 
+}
+.right-column
+{
+float:right;
+ width: 350px;
+ height: 500px;
+background-color:green;
+margin-right: 160px;
+   
+ 
+}
+.center-column
+{
+margin:auto;
+ width: 350px;
+ height: 500px;
+background-color:blue;
+margin-top:100px;
+ 
+}
+.in
+{
+    width: 50px;
+    height:50px;
+    background-color:black;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left:20px;
+}
+.par
+{
+
+    width: 200px;
+    height:200px;
+    background-color:black;
+     
+    margin-top: 20px;
+    margin-left:20px;
+
+}
+.bt
+{
+    width:100px;
+    height: 30px;
+    background-color: aqua;
+    margin-top:40px;
+    margin-left: 50px;
+    border-radius: 10%;
+}
