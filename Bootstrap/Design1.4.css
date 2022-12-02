@@ -10,11 +10,11 @@ background-color:red;
 }
  .right
  {
-    float:left;
+     position: relative;
 width: 200px;
 height: 200px;
 background-color:rgb(6, 4, 109);
- margin-top: 20px;
+ margin-top: 200px;
  }
  
 .par
@@ -91,9 +91,9 @@ background-color:rgb(6, 4, 109);
     width: 200px;
     height:100px;
     background-color:black;
- margin-top: 250px;
-    margin-left:220px;
  
+    margin-left:220px;
+   position: relative;
 }
 .par9
 {
@@ -102,7 +102,7 @@ background-color:rgb(6, 4, 109);
     height:100px;
     background-color:red;
     margin-left:220px;
-   
+   position:absolute;
 }
  
  
