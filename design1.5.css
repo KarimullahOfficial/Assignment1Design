@@ -3,7 +3,7 @@
 float:left;
 width:350px;
 height: 500px;
-background-color:red;
+background-color:yellowgreen;
 margin-left: 160px;
  
  
@@ -13,7 +13,7 @@ margin-left: 160px;
 float:right;
  width: 350px;
  height: 500px;
-background-color:green;
+background-color:darkcyan;
 margin-right: 160px;
    
  
@@ -23,7 +23,7 @@ margin-right: 160px;
 margin:auto;
  width: 350px;
  height: 500px;
-background-color:blue;
+background-color:lightslategrey;
 margin-top:100px;
  
 }
@@ -41,7 +41,7 @@ margin-top:100px;
 
     width: 200px;
     height:200px;
-    background-color:black;
+    color: white;
      
     margin-top: 20px;
     margin-left:20px;
@@ -51,8 +51,10 @@ margin-top:100px;
 {
     width:100px;
     height: 30px;
-    background-color: aqua;
+    background-color:gray;
     margin-top:40px;
     margin-left: 50px;
-    border-radius: 10%;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
 }

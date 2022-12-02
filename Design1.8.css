@@ -3,7 +3,7 @@
 float:right;
  width: 350px;
  height: 350px;
-background-color:green;
+background-color:mediumpurple;
 margin-right: 450px;
 margin-top:50px;
    
@@ -26,7 +26,7 @@ margin-top:10px;
     border-radius: 50%;
     margin-left:70px;
     margin-top: 40px;
-     
+  
     
 }
 .par
@@ -46,7 +46,8 @@ margin-top:10px;
     width: 200px;
     height:100px;
     background-color:brown;
-     
+     text-align: center;
+     color: aliceblue;
     
     margin-left:40px;
 
@@ -55,29 +56,36 @@ margin-top:10px;
 {
     width:80px;
     height: 30px;
-    background-color: yellowgreen;
+    background-color: gray;
      margin-top: 40px;
     border-radius: 10px;
     float:left;
     margin-left: 20px;
+    text-align: center;
+    color: white;
 }
 .bt1
 {
     width:80px;
     height: 30px;
-    background-color:yellow;
+    background-color:gray;
      float: left;
      margin-top: 40px;
     border-radius:10px;
     margin-left: 5px;
+    text-align: center;
+    color: white;
 }
+
 .bt2
 {
     width:80px;
     height: 30px;
-    background-color: aqua;
+    background-color:gray;
      float: left;
      margin-top: 40px;
     border-radius: 10px;
     margin-left: 5px;
+    text-align: center;
+    color: white;
 }
