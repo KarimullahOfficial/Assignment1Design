@@ -57,7 +57,7 @@ margin-top:10px;
     height: 30px;
     background-color: yellowgreen;
      margin-top: 40px;
-    border-radius: 10%;
+    border-radius: 10px;
     float:left;
     margin-left: 20px;
 }
@@ -68,8 +68,8 @@ margin-top:10px;
     background-color:yellow;
      float: left;
      margin-top: 40px;
-    border-radius: 10%;
-    
+    border-radius:10px;
+    margin-left: 5px;
 }
 .bt2
 {
@@ -78,6 +78,6 @@ margin-top:10px;
     background-color: aqua;
      float: left;
      margin-top: 40px;
-    border-radius: 10%;
-    
+    border-radius: 10px;
+    margin-left: 5px;
 }
