@@ -8,25 +8,14 @@ background-color:red;
  
  
 }
-.right-column
-{
-float:right;
+ .right
+ {
+    float:left;
 width: 200px;
 height: 200px;
-background-color:green;
- 
-   
- 
-}
-.center-column
-{
-margin:auto;
- width: 200px;
- height: 200px;
-background-color:blue;
-margin-top:100px;
- 
-}
+background-color:rgb(6, 4, 109);
+ margin-top: 20px;
+ }
  
 .par
 {
@@ -96,4 +85,24 @@ margin-top:100px;
     
 
 }
+.par8
+{
+
+    width: 200px;
+    height:100px;
+    background-color:black;
+ margin-top: 250px;
+    margin-left:220px;
+ 
+}
+.par9
+{
+
+    width: 200px;
+    height:100px;
+    background-color:red;
+    margin-left:220px;
+   
+}
+ 
  
