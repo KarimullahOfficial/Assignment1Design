@@ -1,19 +1,74 @@
-.one
+.left-column
 {
-    width: 950px;
-    height: 520px;
-    background-color: blue;
-     margin-left: 10%;
-    margin-top: 30px;
-    border-radius: 15px;
-     
+float:left;
+width:350px;
+height: 500px;
+background-color:red;
+margin-left: 460px;
+ margin-top: 40px;
+   float: auto;
+ 
 }
-.two
+.in
 {
     width: 50px;
-    height: 40px;
-     background-color: aqua;
-    margin-left: 5%;
-     margin-top: 20px;
+    height:50px;
+    background-color:black;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left:40px;
 }
-   
+.par
+{
+
+    width: 200px;
+    height:200px;
+    background-color:black;
+     
+    margin-top: 20px;
+    margin-left:40px;
+
+}
+.bt
+{
+    width:50px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: yellowgreen;
+     margin-top: 40px;
+    
+    float:left;
+    margin-left:40px;
+}
+.bt1
+{
+    width:50px;
+    height: 30px;
+    border-radius: 50%;
+    background-color:yellow;
+     float: left;
+     margin-top: 40px;
+     margin-left:10px;
+ 
+}
+.bt2
+{
+    width:50px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: aqua;
+     float: left;
+     margin-top: 40px;
+     margin-left:10px;
+     
+}
+.bt3{
+    width:50px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: rgb(2, 22, 22);
+     float: left;
+     margin-top: 40px;
+     margin-left:10px;
+     
+}
